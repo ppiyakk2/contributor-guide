@@ -1,6 +1,0 @@
-# Zuul configuration for i18n test environment
-# upstream-translation-update and propose-translation-update
-# are defined in ppiyakk2/zuul-i18n-config
-- project:
-    check:
-      jobs: []
