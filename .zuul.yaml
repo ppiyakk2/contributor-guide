@@ -1,12 +1,6 @@
+# Zuul configuration for i18n test environment
+# upstream-translation-update and propose-translation-update
+# are defined in ppiyakk2/zuul-i18n-config
 - project:
-    templates:
-      - build-openstack-docs-pti
     check:
-      jobs:
-        - openstack-tox-pep8
-    gate:
-      jobs:
-        - openstack-tox-pep8
-    promote:
-      jobs:
-        - promote-openstack-contributor-guide
+      jobs: []
