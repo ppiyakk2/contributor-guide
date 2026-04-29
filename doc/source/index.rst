@@ -18,7 +18,7 @@ The OpenStack Contributor Guide
    organizations/index
    contributing/index
 
-Search in this guide (test pyk)
--------------------------------
+Search in this guide (test)
+---------------------------
 
 * :ref:`search`
